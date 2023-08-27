@@ -29,7 +29,7 @@
     }
 
     .arrow{
-        display: block;
+        display: none;
     }
 
     .section-container,section{
@@ -118,6 +118,6 @@
     }
 
     .arrow{
-        display: block;
+        display: none;
     }
 }
